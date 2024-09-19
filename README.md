@@ -14,5 +14,8 @@
 - Cabut dan pasang Powersupply agar program yang barusan diupload di run device. ( penting❗)
 - Ulangi langkah awal bila melakukan download ulang lagi
 
+## Kode Program
+- Kode program bisa dicek di link https://github.com/hwthinker/esp8266-relay8ch-10A/blob/main/src/main.cpp 
+
 Warning:❗⚠️
 Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 9VDC atau 5VDC. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
