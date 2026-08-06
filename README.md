@@ -1,5 +1,8 @@
-# Modul ESP8266 ESP-12f Relay 8 Channel 10A 
+# Modul ESP8266 ESP-12F Relay 8 Channel 10A
+
 ![1](./assets/1.png)
+
+Board ESP8266 (ESP-12F) dengan delapan relay 10A onboard — cocok untuk kontrol banyak beban sekaligus (panel lampu, otomasi rumah multi-zona) lewat WiFi.
 
 ## Cara install plugin Arduino IDE
 
