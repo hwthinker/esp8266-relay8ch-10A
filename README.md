@@ -1,5 +1,22 @@
 # Modul ESP8266 ESP-12F Relay 8 Channel 10A
 
+<!-- hwthinker-store-links -->
+
+## Beli boardnya & tutorial lengkap
+
+**Board yang dipakai di repo ini tersedia di HwThinker Store:**
+
+- [Modul Relay 8 Channel ch 8ch WIFI ESP-12F ESP8266 10A IOT](https://hwthinker.com/produk/427d43e0-2259-4481-a0d1-eba42896a451)
+
+**Tutorial lengkap — langkah bergambar, troubleshooting, dan kode yang sudah diuji:**
+
+- [Modul ESP8266 Relay 8 Channel 10A — Setup Arduino IDE dan Kontrol 8 Relay](https://hwthinker.com/tutorials/esp8266-relay-8ch-10a)
+
+Butuh bantuan pemasangan? Sapa kami lewat live chat di [hwthinker.com](https://hwthinker.com) — barang dikirim dari Surabaya, sudah diuji sebelum dikemas.
+
+<!-- /hwthinker-store-links -->
+
+
 ![1](./assets/1.png)
 
 Board ESP8266 (ESP-12F) dengan delapan relay 10A onboard — cocok untuk kontrol banyak beban sekaligus (panel lampu, otomasi rumah multi-zona) lewat WiFi.
